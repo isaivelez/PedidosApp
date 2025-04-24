@@ -3,7 +3,7 @@ using PedidosApp.Interfaces;
 
 namespace PedidosApp.Clases
 {
-    internal class Pedido
+    public class Pedido
     {
         public string Cliente { get; set; }
         public string Producto { get; set; }

@@ -1,6 +1,6 @@
 ﻿namespace PedidosApp.Interfaces
 {
-    internal interface IMetodoEntrega
+    public interface IMetodoEntrega
     {
         double CalcularCosto(int km);
         string TipoEntrega();

@@ -1,0 +1,10 @@
+C:\Users\isaiv\source\repos\PedidosApp\PedidosApp\bin\Debug\PedidosApp.exe.config
+C:\Users\isaiv\source\repos\PedidosApp\PedidosApp\bin\Debug\PedidosApp.exe
+C:\Users\isaiv\source\repos\PedidosApp\PedidosApp\bin\Debug\PedidosApp.pdb
+C:\Users\isaiv\source\repos\PedidosApp\PedidosApp\obj\Debug\PedidosApp.csproj.AssemblyReference.cache
+C:\Users\isaiv\source\repos\PedidosApp\PedidosApp\obj\Debug\PedidosApp.Properties.Resources.resources
+C:\Users\isaiv\source\repos\PedidosApp\PedidosApp\obj\Debug\PedidosApp.csproj.GenerateResource.cache
+C:\Users\isaiv\source\repos\PedidosApp\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
+C:\Users\isaiv\source\repos\PedidosApp\PedidosApp\obj\Debug\PedidosApp.exe
+C:\Users\isaiv\source\repos\PedidosApp\PedidosApp\obj\Debug\PedidosApp.pdb
+C:\Users\isaiv\source\repos\PedidosApp\PedidosApp\obj\Debug\PedidosApp.Form1.resources
