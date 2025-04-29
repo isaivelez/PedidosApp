@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Clases\EntregaCamion.cs" />
     <Compile Include="Clases\EntregaDron.cs" />
+    <Compile Include="Clases\EntregaBicicleta.cs" />
     <Compile Include="Clases\EntregaMoto.cs" />
     <Compile Include="Clases\Pedido.cs" />
     <Compile Include="Factories\EntregaFactory.cs" />

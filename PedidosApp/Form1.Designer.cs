@@ -40,6 +40,8 @@
             this.BtnCalcular = new System.Windows.Forms.Button();
             this.LblResultado = new System.Windows.Forms.Label();
             this.DtgPedidos = new System.Windows.Forms.DataGridView();
+            this.label5 = new System.Windows.Forms.Label();
+            this.CmbFiltro = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.NudPeso)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.NudDistancia)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DtgPedidos)).BeginInit();
@@ -142,16 +144,36 @@
             // DtgPedidos
             // 
             this.DtgPedidos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DtgPedidos.Location = new System.Drawing.Point(29, 284);
+            this.DtgPedidos.Location = new System.Drawing.Point(27, 331);
             this.DtgPedidos.Name = "DtgPedidos";
-            this.DtgPedidos.Size = new System.Drawing.Size(759, 234);
+            this.DtgPedidos.Size = new System.Drawing.Size(759, 199);
             this.DtgPedidos.TabIndex = 22;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(24, 307);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(70, 13);
+            this.label5.TabIndex = 24;
+            this.label5.Text = "Filtrar por tipo";
+            // 
+            // CmbFiltro
+            // 
+            this.CmbFiltro.FormattingEnabled = true;
+            this.CmbFiltro.Location = new System.Drawing.Point(108, 304);
+            this.CmbFiltro.Name = "CmbFiltro";
+            this.CmbFiltro.Size = new System.Drawing.Size(121, 21);
+            this.CmbFiltro.TabIndex = 23;
+            this.CmbFiltro.SelectedIndexChanged += new System.EventHandler(this.CmbFiltro_SelectedIndexChanged);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(817, 542);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.CmbFiltro);
             this.Controls.Add(this.DtgPedidos);
             this.Controls.Add(this.LblResultado);
             this.Controls.Add(this.BtnCalcular);
@@ -189,6 +211,8 @@
         private System.Windows.Forms.Button BtnCalcular;
         private System.Windows.Forms.Label LblResultado;
         private System.Windows.Forms.DataGridView DtgPedidos;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.ComboBox CmbFiltro;
     }
 }
 

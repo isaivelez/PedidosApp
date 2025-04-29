@@ -7,40 +7,44 @@
       "RelativeMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|c:\\users\\isaiv\\source\\repos\\pedidosapp\\pedidosapp\\singleton\\registropedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\singleton\\registropedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|c:\\users\\isaiv\\source\\repos\\pedidosapp\\pedidosapp\\clases\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\clases\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|c:\\users\\isaiv\\source\\repos\\pedidosapp\\pedidosapp\\clases\\entregacamion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\clases\\entregacamion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|c:\\users\\isaiv\\source\\repos\\pedidosapp\\pedidosapp\\interfaces\\imetodoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\interfaces\\imetodoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|c:\\users\\isaiv\\source\\repos\\pedidosapp\\pedidosapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|C:\\Users\\isaiv\\source\\repos\\PedidosApp\\pedidosapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|C:\\Users\\isaiv\\source\\repos\\PedidosApp\\pedidosapp\\clases\\entregacamion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\clases\\entregacamion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|c:\\users\\isaiv\\source\\repos\\pedidosapp\\pedidosapp\\factories\\entregafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\factories\\entregafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|C:\\Users\\isaiv\\source\\repos\\PedidosApp\\pedidosapp\\interfaces\\imetodoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\interfaces\\imetodoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|c:\\users\\isaiv\\source\\repos\\pedidosapp\\pedidosapp\\clases\\entregamoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|C:\\Users\\isaiv\\source\\repos\\PedidosApp\\pedidosapp\\clases\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\clases\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|c:\\users\\isaiv\\source\\repos\\pedidosapp\\pedidosapp\\clases\\entregabicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\clases\\entregabicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|C:\\Users\\isaiv\\source\\repos\\PedidosApp\\pedidosapp\\clases\\entregamoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\clases\\entregamoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|c:\\users\\isaiv\\source\\repos\\pedidosapp\\pedidosapp\\clases\\entregadron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|C:\\Users\\isaiv\\source\\repos\\PedidosApp\\pedidosapp\\clases\\entregadron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\clases\\entregadron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|C:\\Users\\isaiv\\source\\repos\\PedidosApp\\pedidosapp\\singleton\\registropedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\singleton\\registropedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|C:\\Users\\isaiv\\source\\repos\\PedidosApp\\pedidosapp\\factories\\entregafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\factories\\entregafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|C:\\Users\\isaiv\\source\\repos\\PedidosApp\\pedidosapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70B34FA6-B5F6-43C4-86C8-D64AFB43A7E2}|PedidosApp\\PedidosApp.csproj|C:\\Users\\isaiv\\source\\repos\\PedidosApp\\pedidosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,8 +58,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntregaBicicleta.cs",
+              "DocumentMoniker": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Clases\\EntregaBicicleta.cs",
+              "RelativeDocumentMoniker": "PedidosApp\\Clases\\EntregaBicicleta.cs",
+              "ToolTip": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Clases\\EntregaBicicleta.cs",
+              "RelativeToolTip": "PedidosApp\\Clases\\EntregaBicicleta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:51:26.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Form1.cs",
+              "RelativeDocumentMoniker": "PedidosApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PedidosApp\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:49:19.647Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -64,26 +93,14 @@
               "RelativeDocumentMoniker": "PedidosApp\\Form1.cs",
               "ToolTip": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Form1.cs",
               "RelativeToolTip": "PedidosApp\\Form1.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAAwHYAAAAzAAAA",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAjwG0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T19:22:20.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Form1.cs",
-              "RelativeDocumentMoniker": "PedidosApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PedidosApp\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T19:17:45.456Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Program.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Program.cs",
@@ -95,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Form1.Designer.cs",
@@ -108,91 +125,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "RegistroPedidos.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Singleton\\RegistroPedidos.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Singleton\\RegistroPedidos.cs",
               "ToolTip": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Singleton\\RegistroPedidos.cs",
               "RelativeToolTip": "PedidosApp\\Singleton\\RegistroPedidos.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAAjAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T18:56:25.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Clases\\Pedido.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Clases\\Pedido.cs",
               "ToolTip": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Clases\\Pedido.cs",
               "RelativeToolTip": "PedidosApp\\Clases\\Pedido.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwAwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T18:54:56.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "EntregaFactory.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Factories\\EntregaFactory.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Factories\\EntregaFactory.cs",
               "ToolTip": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Factories\\EntregaFactory.cs",
               "RelativeToolTip": "PedidosApp\\Factories\\EntregaFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T18:53:03.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "EntregaMoto.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Clases\\EntregaMoto.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Clases\\EntregaMoto.cs",
               "ToolTip": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Clases\\EntregaMoto.cs",
               "RelativeToolTip": "PedidosApp\\Clases\\EntregaMoto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T18:49:33.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "EntregaCamion.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Clases\\EntregaCamion.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Clases\\EntregaCamion.cs",
               "ToolTip": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Clases\\EntregaCamion.cs",
               "RelativeToolTip": "PedidosApp\\Clases\\EntregaCamion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T18:49:25.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "EntregaDron.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Clases\\EntregaDron.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Clases\\EntregaDron.cs",
               "ToolTip": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Clases\\EntregaDron.cs",
               "RelativeToolTip": "PedidosApp\\Clases\\EntregaDron.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T18:49:03.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IMetodoEntrega.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Interfaces\\IMetodoEntrega.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Interfaces\\IMetodoEntrega.cs",
               "ToolTip": "C:\\Users\\isaiv\\source\\repos\\PedidosApp\\PedidosApp\\Interfaces\\IMetodoEntrega.cs",
               "RelativeToolTip": "PedidosApp\\Interfaces\\IMetodoEntrega.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T18:48:11.826Z",
               "EditorCaption": ""

@@ -67,6 +67,7 @@ namespace PedidosApp
         {
 
             ListarOpcionesCmbProducto();
+            ListarOpcionesCmbFiltro();
             InicializarDataGrid();
         }
 
@@ -87,6 +88,15 @@ namespace PedidosApp
             CmbProducto.Items.Add("accesorio");
             CmbProducto.Items.Add("componente");
         }
+
+        private void ListarOpcionesCmbFiltro()
+        {
+            CmbFiltro.Items.Add("Todos");
+            CmbFiltro.Items.Add("Dron");
+            CmbFiltro.Items.Add("Motocicleta");
+            CmbFiltro.Items.Add("Camión");
+            CmbFiltro.Items.Add("Bicicleta");
+        }
         #endregion
 
         #region[Datagrig functions]
@@ -94,17 +104,24 @@ namespace PedidosApp
         {
             DtgPedidos.Rows.Clear();
 
+            string filtro = CmbFiltro.SelectedItem?.ToString();
+
             foreach (var pedido in pedidos)
             {
-                DtgPedidos.Rows.Add(
-                    pedido.Cliente,
-                    pedido.Producto,
-                    pedido.Urgente,
-                    pedido.Peso,
-                    pedido.Distancia,
-                    pedido.ObtenerCosto(),
-                    pedido.MetodoEntrega.TipoEntrega()
-                );
+                string tipoEntrega = pedido.MetodoEntrega.TipoEntrega();
+
+                if (CmbFiltro.SelectedIndex == -1 || filtro == "Todos" || filtro == tipoEntrega)
+                {
+                    DtgPedidos.Rows.Add(
+                        pedido.Cliente,
+                        pedido.Producto,
+                        pedido.Urgente,
+                        pedido.Peso,
+                        pedido.Distancia,
+                        pedido.ObtenerCosto(),
+                        tipoEntrega
+                    );
+                }
             }
         }
 
@@ -126,5 +143,10 @@ namespace PedidosApp
             DtgPedidos.ReadOnly = true;
         }
         #endregion
+
+        private void CmbFiltro_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            ActualizarDataGridPedidos(RegistroPedidos.Instancia.Pedidos);
+        }
     }
 }
