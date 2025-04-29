@@ -50,4 +50,9 @@ PedidosApp es una aplicación de escritorio desarrollada en C# utilizando Window
 
    El patrón Singleton es útil cuando se necesita asegurar que una clase tenga una única instancia en todo el sistema, como en el caso de gestores de configuración, conexiones a bases de datos, o registros de logs. Sin embargo, debe usarse con precaución para evitar problemas relacionados con el estado compartido y dificultades en las pruebas.
 
+## Funcionalidad de la agregación de la estrategia de Bicicleta
+![image](https://github.com/user-attachments/assets/cc92a76d-021f-4997-9687-bf4f4852f219)
+![image](https://github.com/user-attachments/assets/26239577-9ac7-4808-85f2-bbd583327d92)
+
+
 ---
